@@ -1,5 +1,5 @@
 # encode-ink
-Submission to the Encode Ink! hackathon
+Submission to the Encode ink! hackathon
 
 This repo is a wrapper for 3 repos being submitted as entries into the Encode Polkadot Ink! Hackathon. 
 The project is SamaritanDB - A decentralized datastore.
